@@ -1,0 +1,12 @@
+---
+title: "First Post"
+description: "Initial learning goals"
+author: "Jason Bowman"
+date: "8/30/24"
+categories:
+  - reflection
+  - labreport
+draft: false
+---
+
+My goals for Micro-Ps include higher software proficiency and ability to understand FPGA and Micro Processor functionalities based on thei respective data sheets.

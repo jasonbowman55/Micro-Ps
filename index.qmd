@@ -1,0 +1,25 @@
+---
+title: "E155 Portfolio"
+image: images/headshot.jpeg
+about:
+    template: jolla
+    links:
+    -   icon: linkedin
+        text: LinkedIn
+        href: https://www.linkedin.com/in/jason-bowman-9b488b23b/
+    -   icon: github
+        text: Github
+        href: https://github.com/jasonbowman55
+---
+
+
+Hi, I am Jason Bowman. I am a Senior Engineering major at Harvey Mudd College, with a concentration in Russian language.
+I am in Micro Ps to expand my software knowledge and learn skills in computer hardware that will hopefully shape my 
+career and general engineering technical and professional skills.
+
+
+
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
