@@ -1,0 +1,130 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_pro/22.4
+vflop
+Z0 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z1 !s110 1676365940
+!i10b 1
+!s100 hZ8K^F3SfGAXKML8Tg]bn1
+IlMVM0T_j]LS03j]LH;ZZ:1
+S1
+Z2 dC:/Users/jbowman/Desktop/Jason
+Z3 w1676365938
+Z4 8C:/Users/jbowman/Desktop/Jason/twoscomp.sv
+Z5 FC:/Users/jbowman/Desktop/Jason/twoscomp.sv
+!i122 11
+L0 36 6
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 OL;L;2022.1;75
+r1
+!s85 0
+31
+Z8 !s108 1676365940.000000
+Z9 !s107 C:/Users/jbowman/Desktop/Jason/twoscomp.sv|
+Z10 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/jbowman/Desktop/Jason/twoscomp.sv|
+!i113 0
+Z11 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z12 tCvgOpt 0
+vflopr
+R0
+R1
+!i10b 1
+!s100 1mT8^cGoR5oScK9Jl:zLU3
+IL>nCQnef?z>E7D6m:12f>3
+S1
+R2
+R3
+R4
+R5
+!i122 11
+L0 45 7
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+vflops
+R0
+R1
+!i10b 1
+!s100 o3MJm=:@SZTM<>8=40ZPA2
+IGmz8Qf?I4oUJbFoGmjmSQ3
+S1
+R2
+R3
+R4
+R5
+!i122 11
+L0 54 7
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+vtestbench
+R0
+R1
+!i10b 1
+!s100 _:gmkE6cnP6A<LGKgoK=Q0
+IV1MN76oRTh:VZLA65Ql[V2
+S1
+R2
+R3
+R4
+R5
+!i122 11
+L0 62 50
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+vtwoscomp
+R0
+!s110 1676365730
+!i10b 1
+!s100 ab=UnAD9B<ReW@EXKmhn;3
+I_nMIob^2eh[50mJc4bCA73
+S1
+R2
+w1676365676
+R4
+R5
+!i122 10
+L0 1 6
+R6
+R7
+r1
+!s85 0
+31
+!s108 1676365730.000000
+R9
+R10
+!i113 0
+R11
+R12
