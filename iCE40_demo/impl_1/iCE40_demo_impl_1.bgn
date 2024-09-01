@@ -1,35 +1,13 @@
-
-tmcheck -par "iCE40_demo_impl_1.par"  
-
-pnmainc -log pnmain "iCE40_demo_impl_1_bit.tcl"
-Loading iCE40_demo_impl_1.udb ...
-Loading device for application GENERIC from file 'itpa08.nph' in environment: C:/lscc/radiant/2024.1/ispfpga.
-Package Status:                     Preliminary    Version 1.5.
-Performance Hardware Data Status:   Advanced       Version 1.0.
-
-
-
-Design:  top
-Family:  iCE40UP
-Device:  iCE40UP5K
-Package: SG48
-Performance Grade:   High-Performance_1.2V
-
-Constraint Summary
-   Total number of constraints: 2
-   Total number of constraints dropped: 0
-
-Successfully loading design udb and device data from disks and to up-layer in CPU time: 0 secs , REAL time: 0 secs 
-
-
-
 BITGEN: Bitstream Generator Radiant Software (64-bit) 2024.1.0.34.2
 Copyright (c) 1991-1994 by NeoCAD Inc. All rights reserved.
 Copyright (c) 1995 AT&T Corp.   All rights reserved.
 Copyright (c) 1995-2001 Lucent Technologies Inc.  All rights reserved.
 Copyright (c) 2001 Agere Systems   All rights reserved.
 Copyright (c) 2002-2024 Lattice Semiconductor Corporation,  All rights reserved.
+Sun Sep  1 15:33:49 2024
 
+
+Command: bitgen -w -gui -msgset C:/Users/jbowman/Desktop/jason_lattice_radiant/iCE40_demo/promote.xml -freq 0 iCE40_demo_impl_1.udb C:/Users/jbowman/Desktop/jason_lattice_radiant/iCE40_demo/impl_1/iCE40_demo_impl_1 
 
 Running DRC.
 DRC detected 0 errors and 0 warnings.
@@ -45,9 +23,3 @@ Preference Summary:
 Creating bit map...
 Saving bit stream in "C:/Users/jbowman/Desktop/jason_lattice_radiant/iCE40_demo/impl_1/iCE40_demo_impl_1.bin".
 Bitstream generation complete!
-
-Total CPU Time: 0 secs 
-Total REAL Time: 4 secs 
-Peak Memory Usage: 116 MB
-
-Thank you for using Radiant. Total CPU/Elapsed time: 0 secs /4 secs 
